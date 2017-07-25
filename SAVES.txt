@@ -1,0 +1,11 @@
+
+
+                     ======= RECORDS & ACHIEVEMENTS ======= 
+
+                  1. New in Town (all points - map1: lvl1)              Y
+                  2. Dedicated (moves/points<=13 - map1: lvl2)
+                  3. Like a Boss (all points for 294 moves - map2: lvl1)
+                  4. Forever Standing ( 0 deaths - map2: lvl2)          Y
+                  5. Best Step (under 185 moves - map3: lvl1)           Y
+                  6. Chuck Norris (under 370 moves - map3: lvl2)       Y
+                  7. Fast & Furious (over 30sec remaining - map3: lvl3) 

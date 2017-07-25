@@ -1,0 +1,825 @@
+# depslib dependency file v1.0
+1442851934 source:d:\jani\c++\got\credits.cpp
+	"credits.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"map1.h"
+	"map2.h"
+	"map3.h"
+	"menu1.h"
+	"credits.h"
+
+1442827702 d:\jani\c++\got\credits.h
+
+1442852059 d:\jani\c++\got\map1.h
+
+1442850819 d:\jani\c++\got\map2.h
+
+1442741078 d:\jani\c++\got\map3.h
+
+1442850819 d:\jani\c++\got\menu1.h
+
+1442846397 source:d:\jani\c++\got\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"map1.h"
+	"map2.h"
+	"map3.h"
+	"menu1.h"
+	"credits.h"
+
+1442919597 source:d:\jani\c++\got\map1.cpp
+	"map1.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"menu1.h"
+
+1442919597 source:d:\jani\c++\got\map2.cpp
+	"map2.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"menu1.h"
+
+1442925539 source:d:\jani\c++\got\map3.cpp
+	"map3.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"menu1.h"
+
+1442920402 source:d:\jani\c++\got\menu1.cpp
+	"menu1.h"
+	"map1.h"
+	"map2.h"
+	"map3.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits.h"
+
+1442851934 source:d:\jani\c++\copy of got\credits.cpp
+	"credits.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"map1.h"
+	"map2.h"
+	"map3.h"
+	"menu1.h"
+	"credits.h"
+
+1442827702 d:\jani\c++\copy of got\credits.h
+
+1442852059 d:\jani\c++\copy of got\map1.h
+
+1442850819 d:\jani\c++\copy of got\map2.h
+
+1442741078 d:\jani\c++\copy of got\map3.h
+
+1442850819 d:\jani\c++\copy of got\menu1.h
+
+1442846397 source:d:\jani\c++\copy of got\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"map1.h"
+	"map2.h"
+	"map3.h"
+	"menu1.h"
+	"credits.h"
+
+1442919597 source:d:\jani\c++\copy of got\map1.cpp
+	"map1.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"menu1.h"
+
+1442919597 source:d:\jani\c++\copy of got\map2.cpp
+	"map2.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"menu1.h"
+
+1442925539 source:d:\jani\c++\copy of got\map3.cpp
+	"map3.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"menu1.h"
+
+1444815214 source:d:\jani\c++\copy of copy of got\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"map1.h"
+	"map2.h"
+	"map3.h"
+	"map1.h"
+	"menu1.h"
+	"credits.h"
+	"start.h"
+
+1445071054 d:\jani\c++\copy of copy of got\map1.h
+
+1442850819 d:\jani\c++\copy of copy of got\map2.h
+
+1443280936 d:\jani\c++\copy of copy of got\map3.h
+
+1442850819 d:\jani\c++\copy of copy of got\menu1.h
+
+1442827702 d:\jani\c++\copy of copy of got\credits.h
+
+1445159905 source:d:\jani\c++\copy of copy of got\map1.cpp
+	"map1.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"menu1.h"
+	<fstream>
+
+1445158230 source:d:\jani\c++\copy of copy of got\map2.cpp
+	"map2.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"menu1.h"
+	<fstream>
+
+1445158530 source:d:\jani\c++\copy of copy of got\map3.cpp
+	"map3.h"
+	"credits.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"menu1.h"
+	"bonus.h"
+	<fstream>
+	"pass.h"
+
+1444724669 source:d:\jani\c++\copy of copy of got\credits.cpp
+	"credits.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"map1.h"
+	"map2.h"
+	"map3.h"
+	"menu1.h"
+	"credits.h"
+	"start.h"
+
+1445098688 source:d:\jani\c++\copy of copy of got\menu1.cpp
+	"menuf.h"
+	"menuy.h"
+	"menuaq.h"
+	"menubl.h"
+	"menu1.h"
+	"map1.h"
+	"map2.h"
+	"map3.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits1.h"
+	<fstream>
+	"pass.h"
+
+1442942584 d:\jani\c++\copy of copy of got\menuf.h
+
+1445098688 source:d:\jani\c++\copy of copy of got\menuf.cpp
+	"menuf.h"
+	"menuaq.h"
+	"menuy.h"
+	"menubl.h"
+	"menu1.h"
+	"map4.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits1.h"
+	<fstream>
+	"pass.h"
+
+1445181519 source:d:\jani\c++\copy of copy of got\map4.cpp
+	"menuf.h"
+	"map4.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits.h"
+	"bonus.h"
+	<fstream>
+	"pass.h"
+
+1445094026 d:\jani\c++\copy of copy of got\map4.h
+
+1445181519 source:d:\jani\c++\copy of copy of got\map5.cpp
+	"map5.h"
+	"menubl.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits.h"
+	"bonus.h"
+	<fstream>
+	"pass.h"
+
+1442943790 d:\jani\c++\copy of copy of got\map5.h
+
+1445098688 source:d:\jani\c++\copy of copy of got\menubl.cpp
+	"menubl.h"
+	"menuaq.h"
+	"menuy.h"
+	"menuf.h"
+	"menu1.h"
+	"map5.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits1.h"
+	<fstream>
+	"pass.h"
+
+1442943114 d:\jani\c++\copy of copy of got\menubl.h
+
+1445181519 source:d:\jani\c++\copy of copy of got\map6.cpp
+	"map6.h"
+	"menuy.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits.h"
+	"bonus.h"
+	<fstream>
+	"pass.h"
+
+1442944482 d:\jani\c++\copy of copy of got\map6.h
+
+1442944266 d:\jani\c++\copy of copy of got\menuy.h
+
+1445098688 source:d:\jani\c++\copy of copy of got\menuy.cpp
+	"menuy.h"
+	"menuaq.h"
+	"menubl.h"
+	"menuf.h"
+	"menu1.h"
+	"map6.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits1.h"
+	<fstream>
+	"pass.h"
+
+1445181519 source:d:\jani\c++\copy of copy of got\map7.cpp
+	"map7.h"
+	"menuaq.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits.h"
+	"bonus.h"
+	<fstream>
+	"pass.h"
+
+1442945589 d:\jani\c++\copy of copy of got\map7.h
+
+1442945589 d:\jani\c++\copy of copy of got\menuaq.h
+
+1445098688 source:d:\jani\c++\copy of copy of got\menuaq.cpp
+	"menuaq.h"
+	"menuy.h"
+	"menubl.h"
+	"menuf.h"
+	"menu1.h"
+	"map7.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits1.h"
+	<fstream>
+	"pass.h"
+
+1445090246 d:\jani\c++\copy of copy of got\bonus.h
+
+1445100179 source:d:\jani\c++\copy of copy of got\bonus.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"bonus.h"
+	"credits.h"
+	"start.h"
+	<fstream>
+
+1443603491 d:\jani\c++\copy of copy of got\start.h
+
+1445098409 source:d:\jani\c++\copy of copy of got\start.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"map1.h"
+	"map2.h"
+	"map3.h"
+	"map1.h"
+	"menu1.h"
+	"credits.h"
+	"start.h"
+	"menuf.h"
+
+1444458671 d:\jani\c++\copy of copy of got\pass.h
+
+1444632502 source:d:\jani\c++\copy of copy of got\pass.cpp
+	<iostream>
+	"pass.h"
+	"bonus.h"
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"bonus.h"
+	"credits.h"
+	"start.h"
+
+1444632138 d:\jani\c++\copy of copy of got\credits1.h
+
+1444724669 source:d:\jani\c++\copy of copy of got\credits1.cpp
+	"credits1.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+
+1446662602 source:d:\jani\c++\copy of copy of copy of got\bonus.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"bonus.h"
+	"credits.h"
+	"start.h"
+	<fstream>
+
+1445188047 d:\jani\c++\copy of copy of copy of got\bonus.h
+
+1442824102 d:\jani\c++\copy of copy of copy of got\credits.h
+
+1443599891 d:\jani\c++\copy of copy of copy of got\start.h
+
+1445776599 source:d:\jani\c++\copy of copy of copy of got\credits.cpp
+	"credits.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"map1.h"
+	"map2.h"
+	"map3.h"
+	"menu1.h"
+	"credits.h"
+	"start.h"
+
+1445067454 d:\jani\c++\copy of copy of copy of got\map1.h
+
+1442847219 d:\jani\c++\copy of copy of copy of got\map2.h
+
+1443277336 d:\jani\c++\copy of copy of copy of got\map3.h
+
+1442847219 d:\jani\c++\copy of copy of copy of got\menu1.h
+
+1445708110 source:d:\jani\c++\copy of copy of copy of got\credits1.cpp
+	"credits1.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+
+1444628538 d:\jani\c++\copy of copy of copy of got\credits1.h
+
+1444811614 source:d:\jani\c++\copy of copy of copy of got\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"map1.h"
+	"map2.h"
+	"map3.h"
+	"map1.h"
+	"menu1.h"
+	"credits.h"
+	"start.h"
+
+1445237234 source:d:\jani\c++\copy of copy of copy of got\map2.cpp
+	"map2.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"menu1.h"
+	<fstream>
+
+1445345195 source:d:\jani\c++\copy of copy of copy of got\map3.cpp
+	"map3.h"
+	"credits.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"menu1.h"
+	"bonus.h"
+	<fstream>
+	"pass.h"
+
+1444455071 d:\jani\c++\copy of copy of copy of got\pass.h
+
+1445345195 source:d:\jani\c++\copy of copy of copy of got\map4.cpp
+	"menuf.h"
+	"map4.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits.h"
+	"bonus.h"
+	<fstream>
+	"pass.h"
+
+1442938984 d:\jani\c++\copy of copy of copy of got\menuf.h
+
+1445090426 d:\jani\c++\copy of copy of copy of got\map4.h
+
+1445345195 source:d:\jani\c++\copy of copy of copy of got\map5.cpp
+	"map5.h"
+	"menubl.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits.h"
+	"bonus.h"
+	<fstream>
+	"pass.h"
+
+1442940190 d:\jani\c++\copy of copy of copy of got\map5.h
+
+1442939514 d:\jani\c++\copy of copy of copy of got\menubl.h
+
+1445345195 source:d:\jani\c++\copy of copy of copy of got\map6.cpp
+	"map6.h"
+	"menuy.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits.h"
+	"bonus.h"
+	<fstream>
+	"pass.h"
+
+1442940882 d:\jani\c++\copy of copy of copy of got\map6.h
+
+1442940666 d:\jani\c++\copy of copy of copy of got\menuy.h
+
+1445345195 source:d:\jani\c++\copy of copy of copy of got\map7.cpp
+	"map7.h"
+	"menuaq.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits.h"
+	"bonus.h"
+	<fstream>
+	"pass.h"
+
+1442941989 d:\jani\c++\copy of copy of copy of got\map7.h
+
+1442941989 d:\jani\c++\copy of copy of copy of got\menuaq.h
+
+1445352766 source:d:\jani\c++\copy of copy of copy of got\menu1.cpp
+	"menuf.h"
+	"menuy.h"
+	"menuaq.h"
+	"menubl.h"
+	"menu1.h"
+	"map1.h"
+	"map2.h"
+	"map3.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits1.h"
+	<fstream>
+	"pass.h"
+	"bonus.h"
+
+1445352966 source:d:\jani\c++\copy of copy of copy of got\menuaq.cpp
+	"menuaq.h"
+	"menuy.h"
+	"menubl.h"
+	"menuf.h"
+	"menu1.h"
+	"map7.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits1.h"
+	<fstream>
+	"pass.h"
+	"bonus.h"
+
+1445352966 source:d:\jani\c++\copy of copy of copy of got\menubl.cpp
+	"menubl.h"
+	"menuaq.h"
+	"menuy.h"
+	"menuf.h"
+	"menu1.h"
+	"map5.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits1.h"
+	<fstream>
+	"pass.h"
+	"bonus.h"
+
+1445352966 source:d:\jani\c++\copy of copy of copy of got\menuf.cpp
+	"menuf.h"
+	"menuaq.h"
+	"menuy.h"
+	"menubl.h"
+	"menu1.h"
+	"map4.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits1.h"
+	<fstream>
+	"pass.h"
+	"bonus.h"
+
+1445352966 source:d:\jani\c++\copy of copy of copy of got\menuy.cpp
+	"menuy.h"
+	"menuaq.h"
+	"menubl.h"
+	"menuf.h"
+	"menu1.h"
+	"map6.h"
+	<iostream>
+	<windows.h>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<mmsystem.h>
+	<cmath>
+	<ctime>
+	"credits1.h"
+	<fstream>
+	"pass.h"
+	"bonus.h"
+
+1444632502 source:d:\jani\c++\copy of copy of copy of got\pass.cpp
+	<iostream>
+	"pass.h"
+	"bonus.h"
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"bonus.h"
+	"credits.h"
+	"start.h"
+
+1445445600 source:d:\jani\c++\copy of copy of copy of got\start.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"map1.h"
+	"map2.h"
+	"map3.h"
+	"map1.h"
+	"menu1.h"
+	"credits.h"
+	"start.h"
+	"menuf.h"
+
+1445237234 source:d:\jani\c++\copy of copy of copy of got\map1.cpp
+	"map1.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"menu1.h"
+	<fstream>
+

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GOT" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GOT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GOT" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add library="winmm" />
+		</Linker>
+		<Unit filename="bonus.cpp" />
+		<Unit filename="bonus.h" />
+		<Unit filename="credits.cpp" />
+		<Unit filename="credits.h" />
+		<Unit filename="credits1.cpp" />
+		<Unit filename="credits1.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="map1.cpp" />
+		<Unit filename="map1.h" />
+		<Unit filename="map2.cpp" />
+		<Unit filename="map2.h" />
+		<Unit filename="map3.cpp" />
+		<Unit filename="map3.h" />
+		<Unit filename="map4.cpp" />
+		<Unit filename="map4.h" />
+		<Unit filename="map5.cpp" />
+		<Unit filename="map5.h" />
+		<Unit filename="map6.cpp" />
+		<Unit filename="map6.h" />
+		<Unit filename="map7.cpp" />
+		<Unit filename="map7.h" />
+		<Unit filename="menu1.cpp" />
+		<Unit filename="menu1.h" />
+		<Unit filename="menuaq.cpp" />
+		<Unit filename="menuaq.h" />
+		<Unit filename="menubl.cpp" />
+		<Unit filename="menubl.h" />
+		<Unit filename="menuf.cpp" />
+		<Unit filename="menuf.h" />
+		<Unit filename="menuy.cpp" />
+		<Unit filename="menuy.h" />
+		<Unit filename="pass.h" />
+		<Unit filename="start.cpp" />
+		<Unit filename="start.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
